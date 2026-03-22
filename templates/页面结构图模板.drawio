@@ -1,0 +1,73 @@
+<mxfile host="d.code996.fun" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="27.0.9">
+  <diagram id="page-structure-template" name="页面结构图模板">
+    <mxGraphModel dx="1903" dy="1275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="应用入口" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="260" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="页面分组A" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="140" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="页面分组B" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="360" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="页面A1" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="100" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="页面A2" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="190" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="页面B1" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="320" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="页面B2" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="410" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="功能点1" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="100" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="功能点2" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="190" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="功能点3" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="320" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="功能点4" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="410" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=none;fontSize=18;html=1;" parent="1" source="2" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="" style="curved=1;startArrow=none;endArrow=none;fontSize=18;html=1;" parent="1" source="2" target="4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="" style="curved=1;startArrow=none;endArrow=none;fontSize=18;html=1;" parent="1" source="3" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="" style="curved=1;startArrow=none;endArrow=none;fontSize=18;html=1;" parent="1" source="3" target="6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="" style="curved=1;startArrow=none;endArrow=none;fontSize=18;html=1;" parent="1" source="4" target="7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="" style="curved=1;startArrow=none;endArrow=none;fontSize=18;html=1;" parent="1" source="4" target="8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="" style="curved=1;startArrow=none;endArrow=none;fontSize=18;html=1;" parent="1" source="5" target="9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="" style="curved=1;startArrow=none;endArrow=none;fontSize=18;html=1;" parent="1" source="6" target="10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="" style="curved=1;startArrow=none;endArrow=none;fontSize=18;html=1;" parent="1" source="7" target="11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="" style="curved=1;startArrow=none;endArrow=none;fontSize=18;html=1;" parent="1" source="8" target="12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
