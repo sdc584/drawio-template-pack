@@ -1,4 +1,4 @@
-# drawio-template-pack
+# drawio-skill
 
 An OpenCode skill package for building thesis-friendly `draw.io` diagrams with a consistent black-and-white visual system, reusable `.drawio` templates, and template-selection guidance.
 
@@ -37,7 +37,7 @@ It is designed for users who want to create new diagrams quickly while keeping a
 ## Repository structure
 
 ```text
-drawio-template-pack/
+drawio-skill/
 ├─ SKILL.md
 ├─ Drawio图风格模板.md
 ├─ LICENSE
@@ -56,7 +56,7 @@ drawio-template-pack/
 ## Quick start
 
 1. Copy this directory into your OpenCode skills directory.
-2. Invoke the skill as `drawio-template-pack`.
+2. Invoke the skill as `drawio-skill`.
 3. Let the skill choose the right template, or open one manually from `templates/`.
 4. Replace placeholder text, duplicate same-type nodes when needed, and keep the built-in style rules.
 

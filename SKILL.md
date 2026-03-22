@@ -1,5 +1,5 @@
 ---
-name: drawio-template-pack
+name: drawio-skill
 description: 基于论文风黑白线框风格的 draw.io 图模板技能：快速选模板、复用占位元素、统一图风与元素语义
 ---
 
